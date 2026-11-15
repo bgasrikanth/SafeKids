@@ -1,0 +1,6 @@
+{
+  "name": "SafeKids Launcher",
+  "description": "A playful, parent-controlled kids launcher prototype with PIN protection, app curation, daily time limits, bedtime lock, and usage analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
